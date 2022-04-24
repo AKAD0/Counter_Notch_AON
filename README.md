@@ -17,6 +17,9 @@ Result data for F/A-18, F-14:
 
 # Used Data.
 For each aircraft there is a corresponded set of telemetries for plain sea and ground where aircrafts move towards each other at 90 degrees.
+MLC* (F/A-18) ≈ 70kn
+MLC* (F-14) ≈ 111kn
+*MLCs were found empirically as a mean for both sea and hill deck with acceptable variance no higher than 10kn
 
 Tacview files provided.
 
