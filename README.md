@@ -6,5 +6,5 @@ Lower that that and radar will struggle due to notch.
 
 # Method
 Problem solved by law of cosines applied to velocity vectors.
-Maths:
+Reference maths:
 ![alt text](https://github.com/AKAD0/Edge_Tracking_Angle/blob/main/math.png)
