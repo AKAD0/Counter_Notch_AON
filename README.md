@@ -24,7 +24,7 @@ For each aircraft there is a corresponded set of telemetries for plain sea and g
 
 Tacview files provided.
 
-*MLCs were found empirically as a mean for both sea and hill deck with acceptable variance no higher than 10kn
+*MLCs were found empirically as a mean for both cases of sea and hill deck with acceptable variance no higher than 10kn
 
 
 # Method.
