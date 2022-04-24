@@ -6,7 +6,7 @@ Calculating *Fighter AON* for specific *Fighter TAS* that would be the lowest fo
 
 • AON lower than calculated for specified TAS would conceal *Bandit* within doppler filter (radar will struggle to track).
 
-• AON higher than calculated for specified TAS would neutralize notch.
+• AON higher than calculated for specified TAS would neutralize *Bandit's* notch.
 
 # Results.
 Result data for F/A-18, F-14:
