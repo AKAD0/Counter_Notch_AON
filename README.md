@@ -22,7 +22,7 @@ MLC* (F-14) ≈ 111kn
 
 For each aircraft there is a corresponded set of telemetries** for plain sea and ground where aircrafts move towards each other at 90 degrees.
 
-*MLCs were found empirically as a mean for both cases of sea and hill deck with acceptable variance no higher than 10kn
+*MLCs were found empirically as a mean for both cases of sea and hill deck with acceptable variance no higher than 10kn.
 
 **Tacview files provided.
 
