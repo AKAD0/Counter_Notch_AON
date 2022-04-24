@@ -2,7 +2,7 @@
 A little research for F/A-18 and F-14 made together with Volley - the highly competent F-14 fan (Discord: Volley#8970).
 
 # Concept.
-Calculating *Fighter AON* for specific *Fighter TAS* that would be the lowest for Lead Pursuit in terms of guaranteed radar tracking of *Bandit*.
+*Fighter AONs* according to the *Fighter TASes* that would be minimum allowable to keep guaranteed radar tracking of *Bandit* in Lead Pursuit.
 
 • AON lower than calculated (for specified TAS) would conceal *Bandit* within doppler filter (radar will struggle to track).
 
