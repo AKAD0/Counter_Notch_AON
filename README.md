@@ -16,15 +16,16 @@ Result data for F/A-18, F-14:
 ![alt text](https://github.com/AKAD0/Edge_Tracking_Angle/blob/main/images/F-14.png)
 
 # Used Data.
-For each aircraft there is a corresponded set of telemetries for plain sea and ground where aircrafts move towards each other at 90 degrees.
-
 MLC* (F/A-18) ≈ 70kn
 
 MLC* (F-14) ≈ 111kn
 
-*MLCs were found empirically as a mean for both sea and hill deck with acceptable variance no higher than 10kn
+For each aircraft there is a corresponded set of telemetries for plain sea and ground where aircrafts move towards each other at 90 degrees.
 
 Tacview files provided.
+
+*MLCs were found empirically as a mean for both sea and hill deck with acceptable variance no higher than 10kn
+
 
 # Method.
 Problem solved by law of cosines applied to velocity vectors.
