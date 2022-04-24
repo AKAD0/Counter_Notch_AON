@@ -1,4 +1,4 @@
-# Edge_Tracking_Angle
+# Minimal AON for Notch Neutralization
 A little research made together with Volley - the highly competent F-14 fan (Discord: Volley#8970).
 
 # Concept
