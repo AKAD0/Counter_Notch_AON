@@ -4,9 +4,9 @@ A little research for F/A-18 and F-14 made together with Volley - the highly com
 # Concept.
 Calculating AON for specific TAS that would be the lowest for Lead Pursuit in terms of guaranteed radar tracking.
 
-• Angles lower would conceal target within doppler filter (radar will struggle to track).
+• Angles lower than calculated would conceal target within doppler filter (radar will struggle to track).
 
-• Angles higher would neutralize notch.
+• Angles higher than calculated would neutralize notch.
 
 # Results.
 Result data for F/A-18, F-14:
