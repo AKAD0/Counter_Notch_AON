@@ -1,5 +1,5 @@
 # Minimal AON for Notch Neutralization.
-A little research made together with Volley - the highly competent F-14 fan (Discord: Volley#8970).
+A little research for F/A-18 and F-14 made together with Volley - the highly competent F-14 fan (Discord: Volley#8970).
 
 # Concept.
 Calculating AON for specific TAS that would be the lowest for Lead Pursuit in terms of guaranteed radar tracking.
