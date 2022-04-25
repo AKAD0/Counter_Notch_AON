@@ -1,7 +1,7 @@
 # Counter Notch AON
 A little research for F/A-18 and F-14 made together with Volley - the highly competent F-14 fan (Discord: Volley#8970).
 
-# Concept
+# Description
 Here are presented pursuit parameters (TAS, AON) that guarantee fighter to counter bandit's notch within lead pursuit.
 
 For current TAS:
