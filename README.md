@@ -6,9 +6,9 @@ Here are presented pursuit parameters (TAS, AON) that guarantee fighter to count
 
 For current TAS:
 
-• AON lower than specified degree would cause lose tracking (closing is within doppler filter's MLC).
+• AON lower than specified degree would cause lose tracking (closing would be within doppler filter's MLC).
 
-• AON higher than specified degree would counter notch (closing is out of doppler filter's MLC).
+• AON higher than specified degree would counter notch (closing would be out of doppler filter's MLC).
 
 # Results
 Result data for F/A-18, F-14:
