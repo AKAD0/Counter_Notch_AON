@@ -2,7 +2,7 @@
 A little research for F/A-18 and F-14 made for fun together with Volley - the highly competent F-14 fan (Discord: Volley#8970). My Discord: AlbaMelody#6722
 
 # Description
-Here are presented pursuit parameters (TAS, AON) that guarantee fighter to counter bandit's notch within lead pursuit. Results are only relevant for symmetric aircrafts choise.
+Here are presented pursuit parameters (TAS, AON) that guarantee fighter to counter bandit's notch within lead pursuit. Results are only relevant for symmetric aircrafts choise and may vary depending on conditions.
 
 For current TAS:
 
